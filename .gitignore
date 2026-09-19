@@ -1,5 +1,3 @@
-/acv_env
-Setup_save_db.ipynb
-/.ipynb_checkpoints
-/data
+.venv/
+.ipynb_checkpoints/
 brightway2_project_ecoinvent_311.tar.gz
